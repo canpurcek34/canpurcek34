@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile app development, machine learning and mechanical engineering.
 - 🌱 I’m currently learning Kotlin and Python.
 - 📫 How to reach me;
-- linkedin: https://www.linkedin.com/feed/
+- linkedin: https://www.linkedin.com/in/muhendiscan34/
 - instagram: https://www.instagram.com/canpurcek/?hl=tr
 - e-mail: canpurcek@gmail.com
 

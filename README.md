@@ -10,6 +10,9 @@
 - 🌱 I've been working with <b>JavaScript and C#</b> lately.
 
 - 🔭 I'm interested in web/mobile design.
+- 
+- Shortly about me: I play computer games in my free time. I usually prefer FPS games.
+- I create solid models(whatever I want) using Solidworks or Fusion 360 and then print these models with a 3D printer. Currently, I'm using an FDM type printer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,7 +7,7 @@
 
 - 👯 I have worked on <b>Kotlin</b> before. You can see my projects.
 
-- 🌱 I've been working with <b>Js</b> lately.
+- 🌱 I've been working with <b>JavaScript and C#</b> lately.
 
 - 🔭 I'm interested in web/mobile design.
 

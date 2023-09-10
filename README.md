@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/daj4jrctp/image/upload/v1694344035/nocclmexeqp41ycpxasl.gif">
+<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/daj4jrctp/image/upload/v1694344226/dbnu69lvr1tkhu5xswjg.gif">
 
 <h1 align="center">Hi 👋, I'm Enrecan</h1>
 <h3 align="center">I'm am a graduaded of Mecanical Engineering at Çorum Hitit University</h3>

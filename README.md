@@ -22,11 +22,14 @@
 
 
 ###
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canpurcek34&show_icons=true&locale=en&layout=compact" alt="canpurcek34" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canpurcek34&show_icons=true&locale=en" alt="canpurcek34" /></p>
 
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canpurcek34&" alt="canpurcek34" /></p>
+</div>
 
 
 ###

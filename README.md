@@ -5,7 +5,7 @@
 
 - 👨‍💻 I am currently working on web development. I'm learning <b>React.JS</b>
 
-- 👯 I have worked on <b>Kotlin</b> before. You can see my projects.
+- 👯 I have working on <b>Kotlin</b>. You can see my projects.
 
 - 🌱 I've been working with <b>JavaScript and C#</b> lately.
 

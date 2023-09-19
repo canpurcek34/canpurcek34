@@ -15,12 +15,6 @@
 - Shortly about me: I play computer games in my free time. I usually prefer FPS games.
 - I create solid models(whatever I want) using Solidworks or Fusion 360 and then print these models with a 3D printer. Currently, I'm using an FDM type printer.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhendiscan34" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emrecan Pürçek" height="30" width="40" /></a>
-</p>
-
-
 ###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canpurcek34&show_icons=true&locale=en&layout=compact" alt="canpurcek34" /></p>
@@ -46,6 +40,7 @@
 
 ###
 
+<h3 align="center">Connect with me:</h3>
 <div align="center">
 <!--<a href="" target="_blank">
 </a>-->

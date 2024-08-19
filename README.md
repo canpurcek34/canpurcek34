@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Emrecan</h1>
 <h3 align="center">I'm am a graduaded of Mechanical Engineering at Çorum Hitit University</h3>
 
-- 👨‍💻 I am currently working on web development. I'm learning <b>React.JS</b>
+- 👨‍💻 I am currently working on web development. I'm learning <b>Flutter</b>
 
 - 👯 I have working on <b>Kotlin</b>. You can see my projects.
 
-- 🌱 I've been working with <b>JavaScript and C#</b> lately.
+- 🌱 I've been working with <b>Dart and Flutter</b> lately.
 
 - 🔭 I'm interested in web/mobile design.
 
@@ -30,11 +30,8 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="CENTER">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="flutter logo"  />
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 </div>
 
